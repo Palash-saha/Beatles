@@ -4,4 +4,4 @@ Beatls PSD TO HTML Project
 
     Live-Site Link
 
-https://beatls-site.netlify.app/
+https://beatls-ps.netlify.app
